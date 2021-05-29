@@ -1,0 +1,200 @@
+/*
+Theme Name: That Geordie Lass
+Author: Hayleigh Winpenny
+Description: Bootstrap Blog template converted to WordPress
+Version: 0.0.1
+Tags: bootstrap
+*/
+
+body {
+  font-family: proxima nova;
+  font-weight: semibold;
+  margin: 0px;
+}
+.col {
+  margin: 0px;
+  padding: 15px;
+  max-width: 400px;
+  min-width: 300px;
+}
+.row {
+  margin: 0px;
+}
+#headerLogo {
+  max-width: 500px;
+  padding: 50px;
+}
+#headerMenu {
+  padding: 50px;
+  padding-top: 120px;
+}
+.container {
+  padding: 0px;
+}
+ul {
+  list-style: none;
+  display: inline-block;
+  padding-top: 0px;
+  float: right;
+  margin: 0 auto;
+}
+li {
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: proxima nova;
+  font-weight: semibold;
+  color: #231f20;
+  padding-right: 30px;
+}
+a:hover {
+  color: #44a0fc;
+}
+::placeholder {
+  padding-left: 10px;
+}
+
+div#featured.container {
+  background-color: #ffa6fd;
+  margin: 0px;
+  max-width: 100%;
+}
+div#featured.row {
+  margin: 0 auto;
+  max-width: 100%;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+div#featuredTwo.container {
+  background-color: #ffdd00;
+  margin: 0px;
+  max-width: 100%;
+}
+div#featuredTwo.row {
+  margin: 0 auto;
+  max-width: 100%;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.col-md-2 {
+  padding: 0px;
+  margin: 0px;
+}
+div#latestPost.col {
+  padding: 0px;
+  margin: 0px;
+  display: inline;
+}
+div#latestPost.container {
+  background-color: #44a0fc;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 15px;
+}
+div#latestPost.row {
+  margin: 0 auto;
+  max-width: 100%;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+div#blogFeed.container {
+  background-color: #f7f7f7;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 0px;
+}
+div#blogFeed.row {
+  max-width: 100%;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+div.col-md-5 {
+  padding: 15px;
+}
+div#blogFeed.col {
+  padding: 15px;
+}
+div.card-body-main {
+  padding: 20px;
+}
+h6 {
+  text-align: center;
+  color: #ffffff;
+}
+.btn {
+  border-radius: 0px;
+  padding: 10px;
+  border: none;
+  font-weight: 500;
+  letter-spacing: 2px;
+  background-color: #ffa6fd;
+  margin: 0 auto;
+}
+.btn-primary {
+  margin: 20px;
+}
+.card-body {
+  padding: 20px;
+  max-width: 400px;
+  min-width: 250px;
+}
+.card-title {
+  padding-bottom: 10px;
+  margin: 0px;
+}
+p {
+  font-size: 18px;
+}
+.button {
+  border-radius: 30px;
+  border: 2px solid #231f20;
+  padding: 2px;
+}
+.card {
+  border-radius: 0px;
+  border: none;
+  padding: 0px;
+}
+.card-img-top {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+.card-text {
+  padding-bottom: 0px;
+}
+#twitter,
+#facebook,
+#related {
+  border-radius: 0px;
+  padding: 10px;
+  border: none;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  background-color: #44a0fc;
+  margin: 0 auto;
+  margin-left: 0px;
+}
+#facebookLink,
+#twitterLink {
+  padding: 0px;
+}
+#footer {
+  max-width: 100%;
+  margin: 0px;
+  padding: 20px;
+  margin: 0 auto;
+  background-color: #44a0fc;
+}
+div#socials.card {
+  padding: 20px;
+}
+element.style {
+  min-width: 330px;
+}
